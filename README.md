@@ -1,0 +1,2 @@
+# sona-kama-pona
+Repo for an article written in toki pona about Tetlock's work on political forecasting. This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License, by my alias lawa isipin Kakuko. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
