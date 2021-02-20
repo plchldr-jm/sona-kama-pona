@@ -35,7 +35,7 @@
 
 ---
 
-#Ten Commandments for Aspiring Superforecasters
+# Ten Commandments for Aspiring Superforecasters
 
 1. Triage
 
